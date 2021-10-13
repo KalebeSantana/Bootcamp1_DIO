@@ -49,6 +49,6 @@ DESCRIÇÃO: Aprenda a desenvolver uma API e entenda seus conceitos fundamentais
 | ✅Básico | [**Validação de Nota**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/ValidacaoDeNota/Program.cs) |
 | ✅Básico | [**Tipos de Triângulos**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/TiposDeTriangulos/Program.cs) |
 | ✅Básico | [**Sequência Lógica 2**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/SequenciaLogica2/Program.cs) |
-| ✅Básico | [**Coordenadas de um Ponto**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/CoordenadasDeUmPonto/Program.cs) |
+| ✅Básico | [**Coordenadas de um Ponto**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/CoodernadasDeUmPonto/Program.cs) |
 
 
