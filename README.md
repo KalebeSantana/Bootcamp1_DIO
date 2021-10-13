@@ -14,4 +14,7 @@ DESCRIÇÃO: Aprenda como criar um algoritmo simples de cadastro de séries para
 | ✅Básico | [**Soma Simples**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/SomaSimples/Program.cs) |
 | ✅Básico | [**DDD**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/DDD/Program.cs) |
 
+## 3️⃣ Mentoria 01: Criando um domínio utilizando os pilares da orientação a objetos
+DESCRIÇÃO: Entenda, na prática, os conceitos fundamentais da programação orientada a objetos para facilitar a reutilização e a manutenção do seu código, extraindo o máximo proveito dela junto à linguagem C#. 
 
+[⏩**PROJETO**⏪](https://github.com/KalebeSantana/DecolaTech/tree/main/ProjetoAgenciaBancaria)
