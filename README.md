@@ -40,4 +40,15 @@ DESCRIÇÃO: Aprenda a desenvolver uma API e entenda seus conceitos fundamentais
 
 [⏩**PROJETO**⏪](https://github.com/KalebeSantana/API-GAMES-CATALOG)
 
+## 7️⃣ Desafios numéricos em C#
+
+| 📌**Nível** | 📌 **Nome** | 
+| :--- |  :--- | 
+| ✅Básico | [**Tipo de Combustível**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/TipoDeCombustivel/Program.cs) |
+| ✅Básico | [**O Maior**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/OMaior/Program.cs) |
+| ✅Básico | [**Validação de Nota**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/ValidacaoDeNota/Program.cs) |
+| ✅Básico | [**Tipos de Triângulos**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/TiposDeTriangulos/Program.cs) |
+| ✅Básico | [**Sequência Lógica 2**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/SequenciaLogica2/Program.cs) |
+| ✅Básico | [**Coordenadas de um Ponto**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/CoordenadasDeUmPonto/Program.cs) |
+
 
