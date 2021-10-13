@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AgenciaBancariaDecolaTech.App/1.0.0": {
+        "dependencies": {
+          "AgenciaBancariaDecolaTech.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "AgenciaBancariaDecolaTech.App.dll": {}
+        }
+      },
+      "AgenciaBancariaDecolaTech.Dominio/1.0.0": {
+        "runtime": {
+          "AgenciaBancariaDecolaTech.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AgenciaBancariaDecolaTech.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AgenciaBancariaDecolaTech.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

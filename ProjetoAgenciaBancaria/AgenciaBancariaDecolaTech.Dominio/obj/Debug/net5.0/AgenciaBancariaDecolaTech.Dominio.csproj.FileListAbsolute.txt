@@ -1,0 +1,12 @@
+D:\GitHub\DIGITALINNOVATIONONE\AgenciaBancariaDecolaTech\AgenciaBancariaDecolaTech.Dominio\bin\Debug\net5.0\AgenciaBancariaDecolaTech.Dominio.deps.json
+D:\GitHub\DIGITALINNOVATIONONE\AgenciaBancariaDecolaTech\AgenciaBancariaDecolaTech.Dominio\bin\Debug\net5.0\AgenciaBancariaDecolaTech.Dominio.dll
+D:\GitHub\DIGITALINNOVATIONONE\AgenciaBancariaDecolaTech\AgenciaBancariaDecolaTech.Dominio\bin\Debug\net5.0\ref\AgenciaBancariaDecolaTech.Dominio.dll
+D:\GitHub\DIGITALINNOVATIONONE\AgenciaBancariaDecolaTech\AgenciaBancariaDecolaTech.Dominio\bin\Debug\net5.0\AgenciaBancariaDecolaTech.Dominio.pdb
+D:\GitHub\DIGITALINNOVATIONONE\AgenciaBancariaDecolaTech\AgenciaBancariaDecolaTech.Dominio\obj\Debug\net5.0\AgenciaBancariaDecolaTech.Dominio.csproj.AssemblyReference.cache
+D:\GitHub\DIGITALINNOVATIONONE\AgenciaBancariaDecolaTech\AgenciaBancariaDecolaTech.Dominio\obj\Debug\net5.0\AgenciaBancariaDecolaTech.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\DIGITALINNOVATIONONE\AgenciaBancariaDecolaTech\AgenciaBancariaDecolaTech.Dominio\obj\Debug\net5.0\AgenciaBancariaDecolaTech.Dominio.AssemblyInfoInputs.cache
+D:\GitHub\DIGITALINNOVATIONONE\AgenciaBancariaDecolaTech\AgenciaBancariaDecolaTech.Dominio\obj\Debug\net5.0\AgenciaBancariaDecolaTech.Dominio.AssemblyInfo.cs
+D:\GitHub\DIGITALINNOVATIONONE\AgenciaBancariaDecolaTech\AgenciaBancariaDecolaTech.Dominio\obj\Debug\net5.0\AgenciaBancariaDecolaTech.Dominio.csproj.CoreCompileInputs.cache
+D:\GitHub\DIGITALINNOVATIONONE\AgenciaBancariaDecolaTech\AgenciaBancariaDecolaTech.Dominio\obj\Debug\net5.0\AgenciaBancariaDecolaTech.Dominio.dll
+D:\GitHub\DIGITALINNOVATIONONE\AgenciaBancariaDecolaTech\AgenciaBancariaDecolaTech.Dominio\obj\Debug\net5.0\ref\AgenciaBancariaDecolaTech.Dominio.dll
+D:\GitHub\DIGITALINNOVATIONONE\AgenciaBancariaDecolaTech\AgenciaBancariaDecolaTech.Dominio\obj\Debug\net5.0\AgenciaBancariaDecolaTech.Dominio.pdb
