@@ -19,3 +19,11 @@ DESCRIÇÃO: Entenda, na prática, os conceitos fundamentais da programação or
 
 
 [⏩**PROJETO**⏪](https://github.com/KalebeSantana/DecolaTech/tree/main/ProjetoAgenciaBancaria)
+
+## 4️⃣ Criando um catálogo de jogos usando boas práticas de arquitetura com .NET
+DESCRIÇÃO: Sua missão neste lab será construir uma arquitetura base para uma aplicação .net do zero. Projeto ministrado pelo profissional [Thiago Campos de Oliveira](https://www.linkedin.com/in/thiago-campos-de-oliveira-693a3840/).
+
+
+[⏩**PROJETO**⏪](https://github.com/KalebeSantana/API-GAMES-CATALOG)
+
+## 5️⃣ Introdução a Resolução de Desafios com C#
