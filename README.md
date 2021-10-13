@@ -9,4 +9,9 @@ DESCRIÇÃO: Aprenda como criar um algoritmo simples de cadastro de séries para
 
 ## 2️⃣ Primeiros desafios Matemáticos em C#
 
+| 📌**Nível** | 📌 **Nome** | 
+| :--- |  :--- | 
+| ✅Básico | [**Soma Simples**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/SomaSimples/Program.cs) |
+| ✅Básico | [**DDD**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/DDD/Program.cs) |
+
 
