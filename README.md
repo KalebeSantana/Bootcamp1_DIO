@@ -27,3 +27,10 @@ DESCRIÇÃO: Sua missão neste lab será construir uma arquitetura base para uma
 [⏩**PROJETO**⏪](https://github.com/KalebeSantana/API-GAMES-CATALOG)
 
 ## 5️⃣ Introdução a Resolução de Desafios com C#
+
+| 📌**Nível** | 📌 **Nome** | 
+| :--- |  :--- | 
+| ✅Básico | [**Múltiplos**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/Multiplos/Program.cs) |
+| ✅Básico | [**Números Ímpares**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/NumerosImpares/Program.cs) |
+| ✅Básico | [**Conversão de Tempo**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/ConversaoDeTempo/Program.cs) |
+| ✅Básico | [**Tempo do Dobby**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/TempoDoDobby/Program.cs) |
