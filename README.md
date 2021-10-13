@@ -34,3 +34,10 @@ DESCRIÇÃO: Sua missão neste lab será construir uma arquitetura base para uma
 | ✅Básico | [**Números Ímpares**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/NumerosImpares/Program.cs) |
 | ✅Básico | [**Conversão de Tempo**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/ConversaoDeTempo/Program.cs) |
 | ✅Básico | [**Tempo do Dobby**](https://github.com/KalebeSantana/DecolaTech/blob/main/DesafiosDeCodigo/TempoDoDobby/Program.cs) |
+
+## 6️⃣ Mentoria 02: Criando uma API REST Simples com .NET Core
+DESCRIÇÃO: Aprenda a desenvolver uma API e entenda seus conceitos fundamentais, construindo-a, passo a passo, com a linguagem C#, .NET Core e o padrão REST, um dos padrões de APIs mais utilizados no mundo. Mentoria ministrada pelo profissional [Victor Fructuoso](https://www.linkedin.com/in/victorfructuoso/).
+
+[⏩**PROJETO**⏪](https://github.com/KalebeSantana/API-GAMES-CATALOG)
+
+
